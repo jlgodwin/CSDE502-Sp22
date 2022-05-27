@@ -73,7 +73,9 @@ No Class - PAA
 **April 29, 2022**
 
 **Research in LMICs**
-  * [FAIR](https://jlgodwin.github.io/Readings/Week%205/LMIC_FieldworkEthics.pdf)
+  * [Fieldwork in LMICs](https://jlgodwin.github.io/Readings/Week%205/LMIC_FieldworkEthics.pdf)
+  * [Ethics of HDSS Sites](https://jlgodwin.github.io/Readings/Week%205/HDSS_Ethics.pdf)
+  * [Global North-South Partnerships in Research](https://jlgodwin.github.io/Readings/Week%205/GlobalNorthSouthResearch.pdf)
 
 # Week 6
 
