@@ -17,6 +17,7 @@ layout: default
 * [Week 8](#week-8)
 * [Week 9](#week-9)
 * [Week 10](#week-10)
+* [Boneyard](#boneyard)
 
 
 # Week 1
@@ -51,32 +52,75 @@ No Class - PAA
 
 **April 15, 2022**
 
+**Human Subjects**
+  * [Responsible Conduct of Research, Ch. 11](https://jlgodwin.github.io/Readings/Week%203/Responsible%20Conduct%20of%20Research_Ch11.pdf)
+  * [Colonial Unknowing](https://jlgodwin.github.io/Readings/Week%203/ColonialUnknowing_IRBs_2019.pdf)
+  * [Montana Flyer Study](https://jlgodwin.github.io/Readings/Week%203/MontanaFlyerStudy.pdf)
+  * [Banladesh Mask Study](https://jlgodwin.github.io/Readings/Week%203/BangladeshMaskStudy.pdf)
+
 # Week 4
 
 **April 22, 2022**
+
+**Data Management Principles**
+  * [FAIR](https://jlgodwin.github.io/Readings/Week%204/FairData.pdf)
+  * [Indigenous Data Principles](https://jlgodwin.github.io/Readings/Week%204/IndigenousDataUS_Carroll.pdf)
+  * [CARE](https://jlgodwin.github.io/Readings/Week%204/CAREPrinciples_Carroll.pdf)
+  * [Refugee Data](https://jlgodwin.github.io/Readings/Week%204/StopStealingOurStories.pdf)
 
 # Week 5
 
 **April 29, 2022**
 
+**Research in LMICs**
+  * [FAIR](https://jlgodwin.github.io/Readings/Week%205/LMIC_FieldworkEthics.pdf)
+
 # Week 6
 
 **May 6, 2022**
+
+**Algorithms and Prediction**
+  * [Race and Biosocial Science](https://jlgodwin.github.io/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
+  * [Algorithmic Fairness](https://jlgodwin.github.io/Readings/Week%206/AlgorithmicFairness_2021_ARS.pdf)
+  * [Predictive Policing](https://jlgodwin.github.io/Readings/Week%206/ProPublica_PredictivePolicing_2016.pdf)
+
 
 # Week 7
 
 **May 13, 2022**
 
+**Class Canceled**
+
 # Week 8
 
 **May 20, 2022**
+
+**Reproducibility, Replicability, Statistical Inference**
+  * [Reproducibility in Science](https://jlgodwin.github.io/Readings/Week%207/ReproducibilityinScience_Summary.pdf)
+  * [Responsible Conduct of Research, Ch.3](https://jlgodwin.github.io/Readings/Week%207/Responsible%20Conduct%20of%20Research_Ch3.pdf)
+  * [ASA on P-values](https://jlgodwin.github.io/Readings/Week%207/Wasserstein_ASAStatementonPValues.pdf)
+  * [Statistical Tests](https://jlgodwin.github.io/Readings/Week%207/Greenland_StatisticalTests.pdf)
+  * [Replicability in Social Science](https://jlgodwin.github.io/Readings/Week%207/Freese_ReplicationinSocialScience.pdf)
+  * [Manifesto for Reproducible Science](https://jlgodwin.github.io/Readings/Week%207/Munafo_ManifestoforReproducibleScience.pdf)
 
 # Week 9
 
 **May 27, 2022**
 
+**Publication**
+  * [Responsible Conduct of Research, Ch.3](https://jlgodwin.github.io/Readings/Week%208/Responsible%20Conduct%20of%20Research_Ch3.pdf)
+  * [Manifesto for Reproducible Science](https://jlgodwin.github.io/Readings/Week%208/Munafo_ManifestoforReproducibleScience.pdf)
+  * [HIC Journals and LMIC Research](https://jlgodwin.github.io/Readings/Week%208/HICJournals.pdf)
+  * [Money, Research, and Publishing](https://jlgodwin.github.io/Readings/Week%208/GatesIHMELancet.pdf)
+  * [Post-publication Criticism](https://jlgodwin.github.io/Readings/Week%208/TheObesityWars.pdf)
+
+
 # Week 10
 
 **June 3, 2022**
+
+# Boneyard
+
+
 
 
