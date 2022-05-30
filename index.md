@@ -121,6 +121,13 @@ No Class - PAA
 
 **June 3, 2022**
 
+**The Workplace**
+  * Film: [Picture a Scientist](https://www.pbs.org/wgbh/nova/video/picture-a-scientist/) (Also on Netflix)
+  * [Why isn't science better?](https://jlgodwin.github.io/Readings/Week%209/Smaldino_WhyIsntScienceBetter.pdf)
+  * [Labor Organization](https://jlgodwin.github.io/Readings/Week%209/OrganizingtheAcademy_2021.pdf)
+  * [Sabatini Almost Hired at NYU](https://jlgodwin.github.io/Readings/Week%209/Sabatini_NYU_2022.pdf)
+
+
 # Boneyard
 
   * Favell, Adrian. ["Immigration, integration and citizenship: elements of a new political demography."](https://jlgodwin.github.io/Readings/Favell_ImmigrationDemography_2022.pdf) Journal of Ethnic and Migration Studies (2022): 1-30.
