@@ -131,7 +131,7 @@ No Class - PAA
   * Lopez, Ian Haney. ["Race on the 2010 census: Hispanics & the shrinking white majority."](https://jlgodwin.github.io/Readings/Lopez_2010CensusHispanic_2005.pdf) Daedalus 134, no. 1 (2005): 42-52.
   * Castro Torres, Andrés F., and Diego Alburez-Gutierrez. ["North and South: Naming practices and the hidden dimension of global disparities in knowledge production."](https://jlgodwin.github.io/Readings/CastroTorres_NorthSouthNaming_2022.pdf) Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2119373119.
   * Boyd, D. [Balancing data utility and confidentiality in the 2020 US census.](https://jlgodwin.github.io/Readings/Boyd_BalancingDataUtility.pdf) Technical report, Data and Society, New York, NY, 2019.
-  * Massey, Douglas S. ["Doing social science in anti-scientific times."](https://jlgodwin.github.io/Readings/Massey_Anti-Scientific Times.pdf) The American Sociologist 37, no. 2 (2006): 87-95.
+  * Massey, Douglas S. ["Doing social science in anti-scientific times."](https://jlgodwin.github.io/Readings/Massey_AntiScientific Times.pdf) The American Sociologist 37, no. 2 (2006): 87-95.
   * Spiegelhalter, David. ["Trust in numbers."](Speigelhalter_TrustinNumbers.pdf) Journal of the Royal Statistical Society: Series A (Statistics in Society) 180, no. 4 (2017): 948-965.
 
 
