@@ -73,7 +73,9 @@ No Class - PAA
 **April 29, 2022**
 
 **Research in LMICs**
-  * [FAIR](https://jlgodwin.github.io/Readings/Week%205/LMIC_FieldworkEthics.pdf)
+  * [Fieldwork in LMICs](https://jlgodwin.github.io/Readings/Week%205/LMIC_FieldworkEthics.pdf)
+  * [Ethics of HDSS Sites](https://jlgodwin.github.io/Readings/Week%205/HDSS_Ethics.pdf)
+  * [Global North-South Partnerships in Research](https://jlgodwin.github.io/Readings/Week%205/GlobalNorthSouthResearch.pdf)
 
 # Week 6
 
@@ -121,5 +123,15 @@ No Class - PAA
 
 # Boneyard
 
-To do.
+  * Favell, Adrian. ["Immigration, integration and citizenship: elements of a new political demography."](https://jlgodwin.github.io/Readings/Favell_ImmigrationDemography_2022.pdf) Journal of Ethnic and Migration Studies (2022): 1-30.
+  * Greenhalgh, Susan. ["The social construction of population science: An intellectual, institutional, and political history of twentieth-century demography."](https://jlgodwin.github.io/Readings/Greenhalgh_SocConstructionPopScience_1996.pdf) Comparative studies in society and history 38, no. 1 (1996): 26-66.
+  * Schult, Anne. ["Numbers and norms: Robert René Kuczynski and the development of demography in interwar Britain."](https://jlgodwin.github.io/Readings/Schult_NumbersNorms_PrewarBritain_2020.pdf) History of European Ideas 46, no. 5 (2020): 715-729.
+  * Walters, Sarah. ["African Population History: Contributions of Moral Demography."](https://jlgodwin.github.io/Readings/Walters_AfricanPopHistory_MoralDem_2021.pdf) The Journal of African History 62, no. 2 (2021): 183-200.
+  * Wang, Feng, Yong Cai, Ke Shen, and Stuart Gietel-Basten. ["Is demography just a numerical exercise? Numbers, politics, and legacies of China’s one-child policy."](https://jlgodwin.github.io/Readings/Wang_Cai_DemographyOneChild_2018.pdf) Demography 55, no. 2 (2018): 693-719.
+  * Lopez, Ian Haney. ["Race on the 2010 census: Hispanics & the shrinking white majority."](https://jlgodwin.github.io/Readings/Lopez_2010CensusHispanic_2005.pdf) Daedalus 134, no. 1 (2005): 42-52.
+  * Castro Torres, Andrés F., and Diego Alburez-Gutierrez. ["North and South: Naming practices and the hidden dimension of global disparities in knowledge production."](https://jlgodwin.github.io/Readings/CastroTorres_NorthSouthNaming_2022.pdf) Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2119373119.
+  * Boyd, D. [Balancing data utility and confidentiality in the 2020 US census.](https://jlgodwin.github.io/Readings/Boyd_BalancingDataUtility.pdf) Technical report, Data and Society, New York, NY, 2019.
+  * Massey, Douglas S. ["Doing social science in anti-scientific times."](https://jlgodwin.github.io/Readings/Massey_Anti-Scientific Times.pdf) The American Sociologist 37, no. 2 (2006): 87-95.
+  * Spiegelhalter, David. ["Trust in numbers."](Speigelhalter_TrustinNumbers.pdf) Journal of the Royal Statistical Society: Series A (Statistics in Society) 180, no. 4 (2017): 948-965.
+
 
